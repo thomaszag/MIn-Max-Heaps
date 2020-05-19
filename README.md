@@ -1,1 +1,1 @@
-# MIn-Max-Heaps
+MinMaxHeaps 
